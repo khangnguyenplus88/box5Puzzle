@@ -1,9 +1,7 @@
 {
 	"hot": "https://api2.servi1rt.com",
-	"rsAndroid": "http://lop5.tieuhocquan5.com/mobile/fan.creator2/fan88_new.manifest",
-	"rsAndroid2": "",
+	"rsAndroid": "http://lop5.tieuhocquan5.com/mobile/fan.creator2/fan88.manifest",
 	"rsIos": "",
-	"rsIos2": "",
 	"vAndroid": 1,
 	"vIos": 1,
 	"cIPAndroid": false,
