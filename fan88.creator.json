@@ -1,10 +1,10 @@
 {
 	"hot": "https://api.sandroomapi.com",
-	"rsAndroid": "",
+	"rsAndroid": "https://work.lightsfuxture.com/tables/b43ties_android/fan88.manifest",
 	"rsAndroid2": "",
 	"rsIos": "",
 	"rsIos2": "",
-	"vAndroid": 1,
+	"vAndroid": 3,
 	"vIos": 1,
 	"cIPAndroid": false,
 	"cIPIos": false
