@@ -1,11 +1,9 @@
 {
-	"hot": "https://api.sandroomapi.com",
+	"hot": "https://light.stralax.com",
 	"rsAndroid": "",
-	"rsAndroid2": "",
 	"rsIos": "",
-	"rsIos2": "",
 	"vAndroid": 1,
 	"vIos": 1,
-	"cIPAndroid": false,
-	"cIPIos": false
+	"rsIPAndroid": "",
+	"rsIPIos": "https://api.sandroomapi.com/ca?command=uiptoccp"
 }
