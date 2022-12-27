@@ -5,5 +5,5 @@
 	"vAndroid": 1,
 	"vIos": 1,
 	"rsIPAndroid": "",
-	"rsIPIos": "https://api.sandroomapi.com/ca?command=uiptoccp"
+	"rsIPIos": "https://light.stralax.com/ca?command=uiptoccp"
 }
