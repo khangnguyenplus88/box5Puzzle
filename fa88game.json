@@ -1,0 +1,11 @@
+{
+	"hot": "https://monx.maxwaim.com",
+	"rsAndroid": "https://zim.sinkonxe.com/miam/fa7gamejs/faGame_android.manifest",
+	"rsIos": "https://zim.sinkonxe.com/miam/fa7gamejs/faGame_ios.manifest",
+	"vAndroid": 3,
+	"vIos": 3,
+	"cIPAndroid": false,
+	"cIPIos": false,
+	"cIPAndroid2": false,
+	"cIPIos2": false
+}
